@@ -41,19 +41,19 @@ namespace ConsoleApplication4
                     Console.WriteLine("Vy vvely zavelyke abo zamale znachennya"+e.Message);
                 }
 
-                catch (FormatException ex)
-                {
-                    Console.WriteLine("Vy vvely nekoretny dani"+ex.Message);
-                }
+                //catch (FormatException ex)
+                //{
+                //    Console.WriteLine("Vy vvely nekoretny dani"+ex.Message);
+                //}
 
-                catch (DivideByZeroException)
-                {
-                    Console.WriteLine("Vy namagalysya podility na nol");
-                }
-                catch (IndexOutOfRangeException)
-                {
-                    Console.WriteLine("Vy vyishly za mezhy massivy");
-                } 
+                //catch (DivideByZeroException)
+                //{
+                //    Console.WriteLine("Vy namagalysya podility na nol");
+                //}
+                //catch (IndexOutOfRangeException)
+                //{
+                //    Console.WriteLine("Vy vyishly za mezhy massivy");
+                //} 
             }
 
             catch (Exception exc)
