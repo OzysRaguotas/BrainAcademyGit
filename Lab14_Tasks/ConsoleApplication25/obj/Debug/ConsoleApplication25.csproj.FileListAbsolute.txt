@@ -1,0 +1,12 @@
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\bin\Debug\ConsoleApplication25.pdb
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication25\ConsoleApplication25\obj\Debug\ConsoleApplication25.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Tasks\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe.config
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Tasks\ConsoleApplication25\obj\Debug\ConsoleApplication25.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Tasks\ConsoleApplication25\obj\Debug\ConsoleApplication25.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab14_Tasks\ConsoleApplication25\bin\Debug\ConsoleApplication25.exe.config
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab14_Tasks\ConsoleApplication25\obj\Debug\ConsoleApplication25.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab14_Tasks\ConsoleApplication25\obj\Debug\ConsoleApplication25.pdb
