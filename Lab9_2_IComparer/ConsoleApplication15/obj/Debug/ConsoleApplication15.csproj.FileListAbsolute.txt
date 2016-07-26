@@ -1,0 +1,9 @@
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab9_2_IComparer\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab9_2_IComparer\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab9_2_IComparer\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
