@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\bin\Debug\Palyndrom.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\bin\Debug\Palyndrom.exe
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\bin\Debug\Palyndrom.pdb
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\obj\Debug\Palyndrom.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\obj\Debug\Palyndrom.exe
+c:\users\слава\documents\visual studio 2015\Projects\Palyndrom\Palyndrom\obj\Debug\Palyndrom.pdb

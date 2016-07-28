@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\bin\Debug\Spacer.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\bin\Debug\Spacer.exe
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\bin\Debug\Spacer.pdb
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\obj\Debug\Spacer.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\obj\Debug\Spacer.exe
+c:\users\слава\documents\visual studio 2015\Projects\Spacer\Spacer\obj\Debug\Spacer.pdb
