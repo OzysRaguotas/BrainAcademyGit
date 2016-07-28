@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\bin\Debug\Morze2.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\bin\Debug\Morze2.exe
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\bin\Debug\Morze2.pdb
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\obj\Debug\Morze2.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\obj\Debug\Morze2.exe
+c:\users\слава\documents\visual studio 2015\Projects\Morze2\Morze2\obj\Debug\Morze2.pdb
