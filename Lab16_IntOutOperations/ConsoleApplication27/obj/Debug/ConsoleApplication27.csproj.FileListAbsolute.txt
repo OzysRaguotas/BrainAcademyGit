@@ -1,0 +1,12 @@
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+c:\users\слава\documents\visual studio 2015\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\Lab16_IntOutOperations\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
