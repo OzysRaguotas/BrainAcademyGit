@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\bin\Debug\ADO_dot_NET_Lab.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\obj\Debug\ADO_dot_NET_Lab.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\bin\Debug\ADO_dot_NET_Lab.exe
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\bin\Debug\ADO_dot_NET_Lab.pdb
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\obj\Debug\ADO_dot_NET_Lab.exe
+c:\users\слава\documents\visual studio 2015\Projects\ADO_dot_NET_Lab\ADO_dot_NET_Lab\obj\Debug\ADO_dot_NET_Lab.pdb
