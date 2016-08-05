@@ -1,0 +1,6 @@
+double x = 0.0;
+Expression has been evaluated and has no value
+Double.TryParse(s, out x)
+false
+Convert.ToDouble("4,6")
+4.6

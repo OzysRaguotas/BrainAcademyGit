@@ -1,0 +1,6 @@
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\bin\Debug\LibraryUser.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\bin\Debug\LibraryUser.exe
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\bin\Debug\LibraryUser.pdb
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\obj\Debug\LibraryUser.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\obj\Debug\LibraryUser.exe
+c:\users\слава\documents\visual studio 2015\Projects\LibraryUser\LibraryUser\obj\Debug\LibraryUser.pdb

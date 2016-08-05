@@ -1,0 +1,10 @@
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\StudentsDBwithEF.exe.config
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\StudentsDBwithEF.exe
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\StudentsDBwithEF.pdb
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\EntityFramework.dll
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\EntityFramework.xml
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\obj\Debug\StudentsDBwithEF.csprojResolveAssemblyReference.cache
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\obj\Debug\StudentsDBwithEF.exe
+c:\users\слава\documents\visual studio 2015\Projects\StudentsDBwithEF\StudentsDBwithEF\obj\Debug\StudentsDBwithEF.pdb
