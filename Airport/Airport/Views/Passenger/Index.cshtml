@@ -1,0 +1,51 @@
+﻿@model List<Airport.Models.Entities.Passenger>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        body {
+            background: #6495ED url(../../Images/rs.jpg);
+            color: #fff;
+        }
+    </style>
+    <title>Passengers List</title>
+</head>
+<body>
+    <div>
+
+        <h3>Passengers List</h3>
+        <div>@Html.ActionLink("Add flight", "Create", "Flight")</div>
+        <div>@Html.ActionLink("Show plane list", "Index", "Plane")</div>
+        <div>@Html.ActionLink("Show passenger list", "Index", "Passenger")</div>
+        <table>
+            <tr>
+                <td><p>First Name</p></td>
+                <td><p>Last Name</p></td>
+                <td><p>Passport Series</p></td>
+                <td><p>Passport Number</p></td>
+                <td><p>Gender</p></td>
+                <td><p>Birthday</p></td>
+            </tr>
+
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td><p>@p.FirstName</p></td>
+                    <td><p>@p.SecondName</p></td>
+                    <td><p>@p.Series</p></td>
+                    <td><p>@p.Number</p></td>
+                    <td><p>@p.Gender</p></td>
+                    <td><p>@p.Birthday</p></td>
+                    <td><div class="editor-label">@Html.ActionLink("Edit passenger information", "Update", new { id = @p.Id })  @Html.ActionLink("Delete passenger", "Delete", new { id = @p.Id })</div></td>
+                    <td><div class="editor-label">@Html.ActionLink("Add passenger", "Create", new { id = @p.Id })  @Html.ActionLink("ShowPassengers", "Show", new { id = @p.Id })</div></td>
+                    <td></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

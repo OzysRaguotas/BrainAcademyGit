@@ -1,0 +1,52 @@
+﻿@model List<Airport.Models.Entities.Flight>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        body { background:	#6495ED url(../../Images/rs.jpg); color: #fff; 
+        }
+    </style>
+    <title>My_Airport</title>
+</head>
+<body>
+    <div>
+    
+        <h3>Flight List</h3>
+        <div>@Html.ActionLink("Add flight", "Create", "Flight")</div>
+        <div>@Html.ActionLink("Show plane list", "Index", "Plane")</div>
+        <div>@Html.ActionLink("Show passenger list", "Index", "Passenger")</div>
+        <table>
+            <tr>
+                <td><p>Flight number</p></td>
+                <td><p>City From</p></td>
+                <td><p>Departure Time</p></td>
+                <td><p>City To</p></td>
+                <td><p>Arrival time</p></td>
+                <td><p>Terminal</p></td>
+                <td><p>Gate<p></td>
+            </tr>
+
+            @foreach (var f in Model)
+            {
+                <tr>
+                    <td><p>@f.Number</p></td>
+                    <td><p>@f.CityFrom</p></td>
+                    <td><p>@f.DepartureTime</p></td>
+                    <td><p>@f.CityTo</p></td>
+                    <td><p>@f.ArrivalTime</p></td>
+                    <td><p>@f.Terminal</p></td>
+                    <td><p>@f.Gate</p></td>
+                    <td><p><a href="/Flight/Buy/@f.Id">Buy ticket</a></p></td>
+                    <td><div class="editor-label">@Html.ActionLink("Edit flight information", "Update", new { id = @f.Id })  @Html.ActionLink("Delete flight", "Delete", new { id = @f.Id })</div></td>
+                    <td><div class="editor-label">@Html.ActionLink("Show plane", "Show", new { id = @f.Id })  @Html.ActionLink("ShowPassengers", "Index", "Passenger")</div></td>
+                    <td></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
