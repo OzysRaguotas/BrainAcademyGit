@@ -1,0 +1,9 @@
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\TestForUTEC.exe.config
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\TestForUTEC.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\TestForUTEC.pdb
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\obj\Debug\TestForUTEC.csprojResolveAssemblyReference.cache
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\obj\Debug\TestForUTEC.exe
+C:\Users\Слава\Documents\Visual Studio 2015\Projects\TestForUTEC\TestForUTEC\obj\Debug\TestForUTEC.pdb
